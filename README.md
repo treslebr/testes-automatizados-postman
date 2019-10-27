@@ -1,4 +1,5 @@
 
+
 Tresle API - Testes
 ==============
 
@@ -14,3 +15,5 @@ Para realizar a instalação:
 	 
 	 2.2. [https://raw.githubusercontent.com/treslebr/postman/master/testes/Teste.postman_environment.json](https://raw.githubusercontent.com/treslebr/postman/master/testes/Teste.postman_environment.json)
 
+
+Como importar URL no Postman ? [Clique aqui !!](https://nfe.io/docs/comum/postman/)
